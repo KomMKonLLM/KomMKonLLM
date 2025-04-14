@@ -32,14 +32,6 @@ have the advantage of covering the modelled input space (in this case a written
 sentence and the ways of formulating it) to a certain predetermined degree - in 
 a certain combinatorial sense.
 
-## How does it work?
-
-We want to create a server solution that automatically creates consistency tests 
-for LLMs using combinatorial methods, executes them on LLM instances via open 
-interfaces and can also display the results in a prepared form. Together with an 
-integrated repository of test cases, this offers a solution for combinatorial 
-testing of the consistency of LLMs.
-
 ## Who is behind the project?
 
 KomMKonLLM is a project funded by [netidee](https://www.netidee.at/kommkonllm) and implemented by the [MATRIS Research Group](https://matris.sba-research.org/) of SBA Research.
