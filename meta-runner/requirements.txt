@@ -1,0 +1,4 @@
+nltk~=3.9
+spacy~=3.8
+beautifulsoup4~=4.12
+requests~=2.32

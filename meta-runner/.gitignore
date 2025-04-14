@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+\.idea/
+lib/
+bin/
+*.csv
+*.log
+*.cfg
+.idea/*
+*.pyc
